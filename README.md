@@ -1,2 +1,2 @@
 # beginning
-My very first Git-repositore for learning how to use it
+My very first Git-repository for learning how to use it.
